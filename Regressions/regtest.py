@@ -33,7 +33,6 @@ new_X, new_y = bc.data, bc.target
 
 X_train2, X_test2, y_train2, y_test2 = train_test_split(new_X, new_y, test_size= 0.2, random_state=42)
 
-
 model2 = LogisticReg(lr = 0.001, iterations= 3000)
 model2.fit(X_train2, y_train2)
 predictions2 = model2.predict(X_test2)
