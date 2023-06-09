@@ -1,6 +1,6 @@
 # Machine Learning from Ground Zero!
 
-This repository contains Python code for implementing Machine Learning algorithms from scratch using only NumPy and basic Python modules. The code examples provided here are inspired by the tutorials created by YouTuber Patrick Loeber.
+This repository contains Python code for implementing Machine Learning algorithms from scratch using only NumPy and basic Python modules. The code provided here are copied and inspired (for some of the divergent versions of the algorithms *like the one for Naive Bayes*) by the tutorials created by YouTuber Patrick Loeber.
 
 ## Introduction
 
